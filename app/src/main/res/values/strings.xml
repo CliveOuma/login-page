@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">login page</string>
+    <string name="enter_reg_number" />
+    <string name="password_hint" />
+    <string name="logo_description" />
+    <string name="login_button" />
+    <string name="lost_password" />
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="cookie_notice">cookie_notice</string>
+    <string name="cookies_notice">cookies_notice</string>
+    <string name="username_hint" />
+    <string name="login_button_description" />
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="create_account">create_account</string>
+</resources>

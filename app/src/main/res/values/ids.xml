@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="loginButton" type="id" />
+    <item name="lostPasswordTextView" type="id" />
+    <item name="cookiesNoticeButton" type="id" />
+    <item name="logoImageView" type="id" />
+    <item name="usernameEditText" type="id" />
+    <item name="passwordEditText" type="id" />
+    <item name="loginButton2" type="id" />
+    <item name="createAccount" type="id" />
+    <item name="forgotPasswordTextView" type="id" />
+</resources>
